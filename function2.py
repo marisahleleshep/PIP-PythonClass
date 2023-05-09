@@ -13,7 +13,11 @@ def singleString(string1,string2):
     return string1 +' '+string2
 print(singleString("marisah","kelvin"))
 
+<<<<<<< HEAD
 # Write a Python function that takes a list of words and returns the longest word and the length of the longest one
+=======
+# #  Write a Python function that takes a list of words and returns the longest word and the length of the longest one
+>>>>>>> 81881027840773dd0acbf01259fdc66cc6702fc9
 def long_word(word):
     emptyArr=[]
     longest=0
