@@ -26,6 +26,19 @@ def calculatiton(numbers):
     else:
         middle = length // 2
         return sorted_numbers[middle]
+    
+
+
+
+    # def find_median(numbers):
+    # numbers.sort()
+    # length = len(numbers)
+    # if length % 2 == 0:
+    #     median = (numbers[length//2] + numbers[length//2 - 1])/2
+    # else:
+    #     median = numbers[length//2]
+    # return median
+    
 
 # Write a Python program that takes a list of numbers as input and outputs 
 # the second largest number in the list using conditional statements and a for loop.
